@@ -1,0 +1,77 @@
+.section1{
+    width: 100%;
+
+}
+.section2{
+    background-color: #FF6C47;
+    width: 100%;
+    padding-top: 8%;
+    padding-bottom: 7%;
+}
+.section2txt{
+    width: 80%;
+}
+.section2btn{
+    margin-top: 5%;
+    width: 22%;
+    height: 60px;
+    font-size: large;
+    border-radius: 100px;
+    color: #ffffff;
+    background-color: #000000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+}
+.section3{
+    padding-top: 5%;
+    padding-left: 5%;
+}
+.section3htxt{
+    width: 48%;
+}
+.section3ntxt{
+    width: 80%;
+}
+.section3btn{
+    width: 40%;
+    margin-left: 40%;
+    height: 25%;
+    font-size: large;
+    border-radius: 100px;
+    color: #ffffff;
+    background-color: #6933F4;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+}
+.section3card{
+    width: 100%;
+}
+.section4btn{
+    position: absolute;
+    top: 25%;
+    left: 10%;
+    width: 22%;
+    height: 7%;
+    z-index: 100;
+    border-radius: 100px;
+    color: #ffffff;
+    background-color: #6933F4;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+}
+.get-started-button {
+    width: "100%";
+    margin-left: 27%;
+}
+.get-started-button-des {
+    margin-top: 5%;
+    width: 180%;
+    height: 60px;
+    font-size: large;
+    border-radius: 100px;
+    color: #ffffff;
+    background-color: #000000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+}

@@ -1,0 +1,109 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #f2f2f2;
+}
+
+.logo-text {
+    display: flex;
+    align-items: center;
+    width: fit-content;
+    height: 60px;
+    left: 88px;
+    top: 46px;
+    border: 1px solid #6933F4;
+    border-radius: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+}
+
+
+.logo {
+    width: 50px; /* Adjust according to your logo size */
+    height: auto;
+    margin-right: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+nav ul li a:hover {
+    color: #007bff;
+}
+
+.join-btn {
+    font-size: 23px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 6px;
+    gap: 10px;
+    /* position: absolute; */
+    width: 195px;
+    height: 64px;
+    left: 1497px;
+    top: 47px;
+    background: #7B57FC;
+    border-radius: 40px;
+    color:white;
+    font-weight: 600;
+    border-color: #7B57FC;
+}
+
+.join-btn:hover {
+    background-color: #0056b3;
+}
+
+.nav-css{
+   
+    box-sizing: border-box;
+    border: 1px solid #6933F4;
+    border-radius: 40px;
+    padding: 10px;
+    box-shadow: 1px 0 5px rgba(0, 0, 0, 0.1);
+    position: relative;
+    padding-top: 10px;
+    margin-top: 0%;
+    z-index: 3;
+   width:56%;
+   height:12%;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.nav-txt{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 1%;
+    font-size: 20px;
+    opacity: 1 !important;
+}
+
+.logoo-css{
+    box-sizing: border-box;
+    width: 75px;
+    height: 60px;
+    background: #7B57FC;
+    border: 1px solid #6933F4;
+    /* margin-left: 20px; */
+    border-radius: 40px 0px 0px 40px;
+}
+

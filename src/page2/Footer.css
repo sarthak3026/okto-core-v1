@@ -1,0 +1,48 @@
+
+
+.footer{
+    width: 100%;
+    height: 580px;
+    background-color: #20201F;
+    padding-left: 30px;
+    padding-top: 0px;
+    position: relative;
+    
+}
+.enquireText{
+    width: 32.2%;
+    height: 30.9%;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.enquire-button {
+    position: absolute;
+    top: 50%;
+    left: 5%;
+    width: 15%;
+    height: 7%;
+    z-index: 100;
+    border-radius: 100px;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+}
+.enquire-form{
+    width: 130%;
+    display: flex;
+}
+.email-input{
+    color: white;
+    background-color: #20201F;
+    border-right-width: 0px;
+    width: 100%;
+}
+.share-icons{
+    width: 320px;
+    height: 50px;
+}
+.shareSec{
+    margin-left: 160%;
+    margin-top: 10%;
+}
